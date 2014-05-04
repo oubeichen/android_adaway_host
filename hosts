@@ -1855,7 +1855,12 @@
 
 
 
-192.30.252.131	github.com
+192.30.252.130	github.com
+192.30.252.131 www.github.com
+192.30.252.145 nodeload.github.com
+103.245.222.133 raw.github.com
+103.245.222.133 documentcloud.github.com
+103.245.222.133 pages.github.com
 127.0.0.1	0.user.zitianidc.com
 127.0.0.1	0.xingbaojianpin.net
 127.0.0.1	000888.net
