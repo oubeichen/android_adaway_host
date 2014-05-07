@@ -1,4 +1,4 @@
-#UPDATE: 2014-5-6 19:07
+#UPDATE: 2014-5-8 18:01
 
 #localhost START
 127.0.0.1	localhost
@@ -1814,6 +1814,10 @@ ptimg.org 202.106.184.35
 60.199.175.163	plus.url.google.com
 60.199.175.163	plusone.google.com
 60.199.175.177	talkgadget.google.com
+60.199.175.158	safebrowsing.cache.l.google.com
+60.199.175.163	safebrowsing.clients.google.com
+60.199.175.123	safebrowsing.google.com
+203.211.0.44	safebrowsing-cache.google.com
 74.125.31.190	developer.android.com
 74.125.31.190	market.android.com
 74.125.31.121	www.chromium.org
@@ -1985,10 +1989,6 @@ ptimg.org 202.106.184.35
 60.199.175.95	productforums.google.com
 60.199.175.95	profiles.google.com
 60.199.175.95	reader.google.com
-60.199.175.95	safebrowsing.cache.l.google.com
-60.199.175.95	safebrowsing.clients.google.com
-60.199.175.95	safebrowsing.google.com
-60.199.175.95	safebrowsing-cache.google.com
 60.199.175.95	sandbox.google.com
 60.199.175.95	sb.google.com
 60.199.175.95	sb.l.google.com
