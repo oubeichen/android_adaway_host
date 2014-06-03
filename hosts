@@ -14,11 +14,239 @@
 #
 #######################################################################
 #+MESSAGE_END
-
 #localhost START
 127.0.0.1	localhost
 ::1	localhost
 #localhost END
+
+#Android & Google Services START
+
+173.194.72.84	accounts.google.com
+203.208.46.200	www.google.com
+
+203.208.46.200	appengine.google.com
+203.208.46.200	bks0.books.google.com
+203.208.46.200	bks1.books.google.com
+203.208.46.200	bks2.books.google.com
+203.208.46.200	bks3.books.google.com
+203.208.46.200	bks4.books.google.com
+203.208.46.200	bks5.books.google.com
+203.208.46.200	bks6.books.google.com
+203.208.46.200	bks7.books.google.com
+203.208.46.200	bks8.books.google.com
+203.208.46.200	bks9.books.google.com
+203.208.46.200	blogger.google.com
+203.208.46.200	blogger.l.google.com
+203.208.46.200	blogsearch.google.com
+203.208.46.200	books.google.com
+203.208.46.200	browserchannel-docs.l.google.com
+203.208.46.200	browserchannel-spreadsheets.l.google.com
+203.208.46.200	browsersync.google.com
+203.208.46.200	cache.pack.google.com
+203.208.46.200	calendar.google.com
+203.208.46.200	checkout.google.com
+203.208.46.200	chrome.google.com
+203.208.46.200	clients1.google.com
+203.208.46.200	clients3.google.com
+203.208.46.200	clients4.google.com
+203.208.46.200	clients5.google.com
+203.208.46.200	clients6.google.com
+203.208.46.200	clients7.google.com
+203.208.46.200	code.google.com
+203.208.46.200	code.l.google.com
+203.208.46.200	dl.google.com
+203.208.46.200	ditu.google.com
+203.208.46.200	encrypted.google.com
+203.208.46.200	googlehosted.l.google.com
+203.208.46.200	groups.l.google.com
+203.208.46.200	id.google.com
+203.208.46.200	id.l.google.com
+203.208.46.200	images.google.com
+203.208.46.200	kh.google.com
+203.208.46.200	labs.google.com
+203.208.46.200	large-uploads.l.google.com
+203.208.46.200	reader.google.com
+203.208.46.200	docs.google.com
+203.208.46.200	drive.google.com
+203.208.46.200	mail.google.com
+203.208.46.200	plus.google.com
+203.208.46.200	sites.google.com
+173.194.70.125	talk.google.com
+203.208.46.200	talkgadget.google.com
+
+#173.194.72.189	*.docs.google.com
+#173.194.72.189	*.drive.google.com
+#173.194.72.189	*.mail.google.com
+#173.194.72.189	*.plus.google.com
+#173.194.72.189	*.sites.google.com
+#173.194.72.189	*.talkgadget.google.com
+
+203.208.46.200	maps-api-ssl.google.com
+203.208.46.200	mobilemaps.clients.google.com
+203.208.46.200	music.google.com
+203.208.46.200	music-streaming.l.google.com
+203.208.46.200	mw2.google.com
+203.208.46.200	news.google.com
+203.208.46.200	picasaweb.google.com
+203.208.46.200	picasaweb.google.com
+203.208.46.200	places.google.com
+203.208.46.200	play.google.com
+
+203.208.46.200	plus.url.google.com
+203.208.46.200	profiles.google.com
+203.208.46.200	services.google.com
+
+203.208.46.200	talk.google.com
+203.208.46.200	talkx.l.google.com
+203.208.46.200	talk.l.google.com
+203.208.46.200	tbn0.google.com
+203.208.46.200	tbn1.google.com
+203.208.46.200	tbn2.google.com
+203.208.46.200	tbn3.google.com
+203.208.46.200	tbn4.google.com
+203.208.46.200	tbn5.google.com
+203.208.46.200	tbn6.google.com
+203.208.46.200	translate.google.com
+203.208.46.200	uploads.clients.google.com
+203.208.46.200	video.google.com
+203.208.46.200	voice.google.com
+203.208.46.200	writely.l.google.com
+203.208.46.200	writely-china.l.google.com
+203.208.46.200	www.l.google.com
+203.208.46.200	www2.l.google.com
+203.208.46.200	www3.l.google.com
+
+203.208.46.200	clients2.google.com
+#74.125.200.100	android.clients.google.com
+203.208.46.200	android.l.google.com
+203.208.46.200	m.google.com
+
+203.208.46.202	a-oz-opensocial.googleusercontent.com
+203.208.46.202	clients1.googleusercontent.com
+203.208.46.202	clients2.googleusercontent.com
+203.208.46.202	clients3.googleusercontent.com
+203.208.46.202	clients4.googleusercontent.com
+203.208.46.202	clients5.googleusercontent.com
+203.208.46.202	clients6.googleusercontent.com
+203.208.46.202	clients7.googleusercontent.com
+203.208.46.202	code-opensocial.googleusercontent.com
+203.208.46.202	doc-0k-1s-docs.googleusercontent.com
+203.208.46.202	googlehosted.l.googleusercontent.com
+203.208.46.202	images1-focus-opensocial.googleusercontent.com
+203.208.46.202	images2-focus-opensocial.googleusercontent.com
+203.208.46.202	images3-focus-opensocial.googleusercontent.com
+203.208.46.202	images4-focus-opensocial.googleusercontent.com
+203.208.46.202	images5-focus-opensocial.googleusercontent.com
+203.208.46.202	images6-focus-opensocial.googleusercontent.com
+203.208.46.202	images7-focus-opensocial.googleusercontent.com
+203.208.46.202	images8-focus-opensocial.googleusercontent.com
+203.208.46.202	images9-focus-opensocial.googleusercontent.com
+203.208.46.202	images1-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images2-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images3-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images4-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images5-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images6-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images7-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images8-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images9-esmobile-opensocial.googleusercontent.com
+203.208.46.202	images-docs-opensocial.googleusercontent.com
+203.208.46.202	lh1.googleusercontent.com
+203.208.46.202	lh2.googleusercontent.com
+203.208.46.202	lh3.googleusercontent.com
+203.208.46.202	lh4.googleusercontent.com
+203.208.46.202	lh5.googleusercontent.com
+203.208.46.202	lh6.googleusercontent.com
+203.208.46.202	mail-attachment.googleusercontent.com
+203.208.46.202	music.googleusercontent.com
+203.208.46.202	oauth.googleusercontent.com
+203.208.46.202	s1.googleusercontent.com
+203.208.46.202	s2.googleusercontent.com
+203.208.46.202	s3.googleusercontent.com
+203.208.46.202	s4.googleusercontent.com
+203.208.46.202	s5.googleusercontent.com
+203.208.46.202	s6.googleusercontent.com
+203.208.46.202	t.doc-0-0-sj.sj.googleusercontent.com
+203.208.46.202	webcache.googleusercontent.com
+203.208.46.202	www.googleusercontent.com
+203.208.46.202	www-calendar-opensocial.googleusercontent.com
+203.208.46.202	www-fc-opensocial.googleusercontent.com
+203.208.46.202	www-focus-opensocial.googleusercontent.com
+203.208.46.202	www-gm-opensocial.googleusercontent.com
+203.208.46.202	www-kix-opensocial.googleusercontent.com
+203.208.46.202	www-open-opensocial.googleusercontent.com
+203.208.46.202	www-opensocial.googleusercontent.com
+203.208.46.202	www-opensocial-sandbox.googleusercontent.com
+203.208.46.202	www-oz-opensocial.googleusercontent.com
+
+203.208.46.207	csi.gstatic.com
+203.208.46.207	g0.gstatic.com
+203.208.46.207	g1.gstatic.com
+203.208.46.207	g2.gstatic.com
+203.208.46.207	g3.gstatic.com
+203.208.46.207	maps.gstatic.com
+203.208.46.207	mt0.gstatic.com
+203.208.46.207	mt1.gstatic.com
+203.208.46.207	mt2.gstatic.com
+203.208.46.207	mt3.gstatic.com
+203.208.46.207	mt4.gstatic.com
+203.208.46.207	mt5.gstatic.com
+203.208.46.207	mt6.gstatic.com
+203.208.46.207	mt7.gstatic.com
+203.208.46.207	ssl.gstatic.com
+203.208.46.207	t0.gstatic.com
+203.208.46.207	t1.gstatic.com
+203.208.46.207	t2.gstatic.com
+203.208.46.207	t3.gstatic.com
+203.208.46.207	www.gstatic.com
+
+203.208.46.170	lh1.ggpht.com
+203.208.46.170	lh2.ggpht.com
+203.208.46.170	lh3.ggpht.com
+203.208.46.170	lh4.ggpht.com
+203.208.46.170	lh5.ggpht.com
+203.208.46.170	lh6.ggpht.com
+203.208.46.170	nt0.ggpht.com
+203.208.46.170	nt1.ggpht.com
+203.208.46.170	nt2.ggpht.com
+203.208.46.170	nt3.ggpht.com
+203.208.46.170	nt4.ggpht.com
+203.208.46.170	nt5.ggpht.com
+
+173.194.72.95	ajax.googleapis.com
+173.194.72.95	www.googleapis.com
+173.194.72.95	googleapis.l.google.com
+173.194.72.95	android.googleapis.com
+
+173.194.79.188	mtalk.google.com
+
+74.125.31.190	buttons.googlesyndication.com
+
+74.125.31.190	developer.android.com
+74.125.31.190	market.android.com
+
+74.125.31.190	base0.googlehosted.com
+74.125.31.190	base1.googlehosted.com
+74.125.31.190	base2.googlehosted.com
+74.125.31.190	base3.googlehosted.com
+74.125.31.190	base4.googlehosted.com
+74.125.31.190	base5.googlehosted.com
+
+203.208.46.170	blogsearch.google.com.hk
+203.208.46.170	images.google.com.hk
+203.208.46.170	news.google.com.hk
+203.208.46.170	picasaweb.google.com.hk
+203.208.46.170	plus.url.google.com.hk
+203.208.46.170	wenda.google.com.hk
+203.208.46.170	www.google.com.hk
+
+74.125.31.190	ssl.google-analytics.com
+74.125.31.190	www.googlelabs.com
+173.194.73.141	chrometophone.appspot.com
+173.194.73.141	lfe-alpo-gm.appspot.com
+74.125.31.190	img0.gmodules.com
+
+
 
 #ccFox.info START
 66.155.11.238	ccfox.info
