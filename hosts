@@ -1,12 +1,12 @@
 #+BEGIN
-#+UPDATE_TIME 2014-06-05 17:00:00
+#+UPDATE_TIME 2014-06-10 14:18:00
 #+MESSAGE
 #######################################################################
 #
 #  imouto.host
 #
-#  #Ver : 1.68.0371 Myuseru foaran
-#  #Update Time : 2014.06.05;17:00
+#  #Ver : 1.70.0373 Myuseru foaran
+#  #Update Time : 2014.06.10;14:18
 #  #Fix & Bug : 请参阅imouto.host.Readme.txt
 #
 #  数据来源于互联网上的无名英雄们
@@ -1634,6 +1634,10 @@ ptimg.org	202.106.184.35
 #GoogleDrive↓
 74.125.205.102	drive.google.com
 74.125.205.102	docs.google.com
+74.125.201.132	googledrive.com
+74.125.201.132	storage.googleapis.com
+74.125.201.132	commondatastorage.googleapis.com
+74.125.201.132	static.panoramio.com.storage.googleapis.com
 #203.208.46.134	docs0.google.com
 #203.208.46.134	docs1.google.com
 #203.208.46.134	docs2.google.com
@@ -1828,7 +1832,6 @@ ptimg.org	202.106.184.35
 #Unknow↑
 74.125.205.113	apis.google.com
 74.125.205.83	mail.google.com
-#203.208.46.182	mail.google.com
 203.211.0.39	play.google.com
 203.211.0.44	plus.google.com
 203.211.0.44	plus.url.google.com
@@ -1844,8 +1847,8 @@ ptimg.org	202.106.184.35
 #74.125.31.121	chromium.org
 #74.125.31.121	codereview.chromium.org
 #74.125.31.121	dev.chromium.org
-203.211.0.20	csi.l.google.com
-203.211.0.20	csi.gstatic.com
+74.125.136.94	csi.l.google.com
+74.125.205.120	csi.gstatic.com
 203.211.0.24	ssl.gstatic.com
 203.211.0.24	g0.gstatic.com
 203.211.0.24	g1.gstatic.com
