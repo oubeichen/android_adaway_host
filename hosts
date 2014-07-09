@@ -3548,15 +3548,15 @@
 
 
 #GitHub#
-192.30.252.128	github.com
-192.30.252.129 www.github.com
-192.30.252.145 nodeload.github.com
+192.30.252.129	github.com
+192.30.252.130 www.github.com
+192.30.252.144 nodeload.github.com
 103.245.222.133 raw.github.com
 103.245.222.133 documentcloud.github.com
 103.245.222.133 pages.github.com
 103.245.222.133 raw.githubusercontent.com
 104.20.14.5 feedly.com
-104.20.14.5 s3.feedly.com
+104.20.15.5 s3.feedly.com
 
 #ads block#
 127.0.0.1	a.admob.com
