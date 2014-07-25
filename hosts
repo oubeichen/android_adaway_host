@@ -1,11 +1,9 @@
-﻿
-#+UPDATE_TIME 2014-07-16 11:57:00
+﻿#+UPDATE_TIME 2014-07-24 21:19:00
 
 #localhost START
-
 127.0.0.1	localhost
 ::1	localhost
-
+#localhost END
 
 #AdBlock START
 127.0.0.1	rad.msn.com
@@ -2667,9 +2665,9 @@
 64.233.171.189	8.client-channel.google.com
 64.233.171.189	9.client-channel.google.com
 173.194.70.188	mtalk.google.com
-173.194.70.125	talk.google.com
-173.194.70.125	talkx.l.google.com
-173.194.70.125	talk.l.google.com
+64.233.168.125	talk.google.com
+64.233.168.125	talkx.l.google.com
+64.233.168.125	talk.l.google.com
 #Android↑
 #Youtube↓
 210.242.125.54	accounts.youtube.com
@@ -3181,6 +3179,9 @@
 74.125.205.113	apis.google.com
 74.125.205.138	talkgadget.google.com
 74.125.205.189	chromoting-host.talkgadget.google.com
+74.125.205.189	chromoting-client.talkgadget.google.com
+74.125.205.189	wildcard-talkgadget.l.google.com
+210.242.125.54	relay.google.com
 74.125.205.83	mail.google.com
 74.125.205.102	play.google.com
 210.242.125.54	keep.google.com
