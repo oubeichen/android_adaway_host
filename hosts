@@ -537,7 +537,7 @@
 127.0.0.1	hm.baidu.com
 127.0.0.1	hm.l.qq.com
 127.0.0.1	httpring.qq.com
-127.0.0.1	hz.mmstat.com
+#127.0.0.1	hz.mmstat.com
 127.0.0.1	i.admob.com
 127.0.0.1	iebar.baidu.com
 127.0.0.1	ikcode.baidu.com
@@ -11765,7 +11765,7 @@
 127.0.0.1	cntrrx1.com
 127.0.0.1	cntrtr.com
 127.0.0.1	cntv.wrating.com
-127.0.0.1	cnzz.mmstat.com
+#127.0.0.1	cnzz.mmstat.com
 127.0.0.1	coadvertise.com
 127.0.0.1	cobrands.mailermailer.com
 127.0.0.1	code.37cs.com
@@ -43529,7 +43529,7 @@
 127.0.0.1	hyperku.info
 127.0.0.1	www.hyperku.info
 127.0.0.1	www.hypertracker.com
-127.0.0.1	hz.mmstat.com
+#127.0.0.1	hz.mmstat.com
 127.0.0.1	hzs1.cnzz.com
 127.0.0.1	hzs10.cnzz.com
 127.0.0.1	hzs13.cnzz.com
@@ -45029,7 +45029,7 @@
 127.0.0.1	log.aebn.net
 127.0.0.1	log.aliiike.com
 127.0.0.1	log.idg.no
-127.0.0.1	log.mmstat.com
+#127.0.0.1	log.mmstat.com
 127.0.0.1	log.newsvine.com
 127.0.0.1	log.pinion.gg
 127.0.0.1	log.sz-online.de
