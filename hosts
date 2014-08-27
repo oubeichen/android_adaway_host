@@ -1,5 +1,5 @@
-﻿#+UPDATE_TIME 2014-08-21 17:26:00
-#+Ver : 1.2014.0821
+﻿#+UPDATE_TIME 2014-08-27 20:43:00
+#+Ver : 1.2014.0827
 
 #ccFox.info START
 66.155.11.238	ccfox.info
@@ -2056,11 +2056,14 @@
 #Appspot↓
 74.125.207.141	www.appspot.com
 74.125.207.141	appspot.com
-74.125.207.141	wcproxyx.appspot.com
+74.125.207.141	betaspike.appspot.com
+74.125.207.141	chrome-devtools-frontend.appspot.com
 74.125.207.141	chrometophone.appspot.com
 74.125.207.141	evolutionofweb.appspot.com
 74.125.207.141	googcloudlabs.appspot.com
 74.125.207.141	gv-gadget.appspot.com
+74.125.207.141	lfe-alpo-gm.appspot.com
+74.125.207.141	m-dot-betaspike.appspot.com
 74.125.207.141	magnifier.blogspot.com
 74.125.207.141	moderator.appspot.com
 74.125.207.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
@@ -2074,14 +2077,11 @@
 74.125.207.141	r3432-dot-latest-dot-project-slingshot-hr.appspot.com
 74.125.207.141	r4681-dot-latest-dot-project-slingshot-hr.appspot.com
 74.125.207.141	r7647-dot-latest-dot-project-slingshot-hr.appspot.com
-74.125.207.141	m-dot-betaspike.appspot.com
-74.125.207.141	betaspike.appspot.com
-74.125.207.141	chrometophone.appspot.com
-74.125.207.141	lfe-alpo-gm.appspot.com
+74.125.207.141	wcproxyx.appspot.com
 #Appspot↑
 #GoogleDrive↓
-64.233.168.102	drive.google.com
-64.233.168.102	docs.google.com
+210.242.125.84	drive.google.com
+210.242.125.84	docs.google.com
 74.125.207.132	googledrive.com
 74.125.207.132	storage.googleapis.com
 74.125.207.132	commondatastorage.googleapis.com
@@ -2234,6 +2234,7 @@
 74.125.207.132	images9-esmobile-opensocial.googleusercontent.com
 74.125.207.132	images-docs-opensocial.googleusercontent.com
 74.125.207.132	images-oz-opensocial.googleusercontent.com
+74.125.207.132	images-lso-opensocial.googleusercontent.com
 74.125.207.132	lh0.googleusercontent.com
 74.125.207.132	lh1.googleusercontent.com
 74.125.207.132	lh2.googleusercontent.com
@@ -2328,10 +2329,12 @@
 210.242.125.84	t3.gstatic.com
 210.242.125.84	www.gstatic.com
 210.242.125.84	maps.gstatic.com
+210.242.125.84	fonts.gstatic.com
 #Gstatic↑
 64.233.168.113	apis.google.com
 64.233.182.113	talkgadget.google.com
 64.233.168.189	chromoting-host.talkgadget.google.com
+64.233.168.189	chromoting-oauth.talkgadget.google.com
 64.233.168.189	chromoting-client.talkgadget.google.com
 64.233.168.189	wildcard-talkgadget.l.google.com
 210.242.125.84	relay.google.com
@@ -2353,6 +2356,12 @@
 #74.125.31.121	dev.chromium.org
 #210.242.125.84	mobile.l.google.com
 #210.242.125.84	mobile-gtalk.l.google.com
+74.125.207.127	stun.l.google.com
+74.125.207.127	alt1.stun.l.google.com
+74.125.207.127	alt2.stun.l.google.com
+74.125.207.127	alt3.stun.l.google.com
+74.125.207.127	alt4.stun.l.google.com
+74.125.207.127	alt5.stun.l.google.com
 210.242.125.84	wallet.google.com
 210.242.125.84	answers.google.com
 210.242.125.84	chart.apis.google.com
@@ -2402,6 +2411,7 @@
 210.242.125.84	dl.google.com
 210.242.125.84	dl.l.google.com
 210.242.125.84	dl-ssl.google.com
+210.242.125.84	domains.google.com
 210.242.125.84	earth.google.com
 210.242.125.84	encrypted.google.com
 210.242.125.84	encrypted-tbn.l.google.com
