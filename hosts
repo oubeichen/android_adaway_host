@@ -1,6 +1,11 @@
 ﻿#+UPDATE_TIME 2014-09-1 18:54:00
 #+Ver : 1.2014.0901
 
+#localhost START
+127.0.0.1	localhost
+::1	localhost
+#localhost END
+
 #ccFox.info START
 66.155.11.238	ccfox.info
 66.155.11.238	myimouto.wordpress.com
