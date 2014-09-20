@@ -2819,20 +2819,6 @@
 162.159.253.4 feedly.com
 162.159.253.4 s3.feedly.com
 
-#Googlesource#
-210.242.125.119	googlesource.com
-210.242.125.119	android.googlesource.com
-210.242.125.119	chromium.googlesource.com
-210.242.125.119	gerrit.googlesource.com
-210.242.125.119	kernel.googlesource.com
-210.242.125.119	www.googlesource.com﻿
-210.242.125.119	gwt.googlesource.com
-173.194.77.121	www.gwtproject.org
-210.242.125.119	www.webmproject.org
-210.242.125.119	golang.org
-199.27.79.133	google.github.io
-210.242.125.119	google-opensource.blogspot.com﻿
-
 #ads block#
 127.0.0.1	_thums.ero-advertising.com
 127.0.0.1	0.datacollector.coin.scribol.com
