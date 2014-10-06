@@ -2,8 +2,6 @@
 
 #localhost START
 127.0.0.1	localhost
-::1	localhost
-#localhost END
 
 
 #ccFox.info START
