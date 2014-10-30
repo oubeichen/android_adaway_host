@@ -5686,6 +5686,17 @@
 204.236.220.7	dl-client999.dropbox.com
 #Dropbox END
 
+#Microsoft OneDrive
+134.170.108.154		onedrive.live.com
+134.170.104.90		onedrive.live.com
+134.170.107.154		onedrive.live.com
+134.170.108.26		onedrive.live.com
+134.170.107.26		onedrive.live.com
+134.170.104.232		skyapi.onedrive.live.com
+134.170.105.24		skyapi.onedrive.live.com
+134.170.105.72		skyapi.onedrive.live.com
+134.170.104.104		skyapi.onedrive.live.com
+134.170.109.72		skyapi.onedrive.live.com
 
 #GitHub#
 38.127.167.7 lastpass.com
