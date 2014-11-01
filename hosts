@@ -388,10 +388,10 @@
 210.242.125.89	27.client-channel.google.com
 210.242.125.89	28.client-channel.google.com
 210.242.125.89	29.client-channel.google.com
-210.242.125.89	mtalk.google.com
-210.242.125.89	talk.google.com
-210.242.125.89	talkx.l.google.com
-210.242.125.89	talk.l.google.com
+#210.242.125.89	mtalk.google.com
+#210.242.125.89	talk.google.com
+#210.242.125.89	talkx.l.google.com
+#210.242.125.89	talk.l.google.com
 210.242.125.89	proxy.googlezip.net
 210.242.125.89	ext.google.com
 #Android↑	
