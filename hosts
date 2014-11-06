@@ -1,4 +1,4 @@
-﻿#+UPDATE_TIME 2014-11-4 10:12:00 
+﻿#+UPDATE_TIME 2014-11-7 8:01:00 
 
 #localhost START
 127.0.0.1	localhost
@@ -484,7 +484,7 @@
 74.125.21.98    mt1.google.com
 74.125.21.98    mt2.google.com
 74.125.21.98    mt3.google.com
-74.125.21.98    mtalk.google.com
+64.233.185.188    mtalk.google.com
 74.125.21.98    mts.google.com
 74.125.21.98    mts.l.google.com
 74.125.21.98    mts0.google.com
@@ -600,7 +600,7 @@
 74.125.21.84    accounts.google.com
 74.125.21.98    m.google.com
 74.125.21.51    adwords.google.com
-74.125.21.98    talk.google.com
+64.233.185.125    talk.google.com
 74.125.21.98    google.com
 74.125.21.98    domains.google.com
 74.125.21.98    gmail.google.com
@@ -612,8 +612,8 @@
 74.125.21.98    www4-china.l.google.com
 74.125.21.98    android.l.google.com
 74.125.21.98    googlehosted.l.google.com
-74.125.21.98    talkx.l.google.com
-74.125.21.98    talk.l.google.com
+64.233.185.125    talkx.l.google.com
+64.233.185.125    talk.l.google.com
 74.125.21.98    ext.google.com
 74.125.21.98    pki.google.com
 74.125.21.98    uploads.clients.google.com
