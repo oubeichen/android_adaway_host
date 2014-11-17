@@ -1,4 +1,4 @@
-﻿#+UPDATE_TIME 2014-11-17 14:28:00 
+﻿#+UPDATE_TIME 2014-11-17 15:28:00 
 
 #localhost START
 127.0.0.1	localhost
@@ -3226,7 +3226,7 @@
 64.233.185.141	wcproxyx.appspot.com
 #Appspot↑
 #Googleusercontent↓
-64.233.185.132	www.googleusercontent.com
+202.65.246.80	www.googleusercontent.com
 64.233.185.132	googlehosted.l.googleusercontent.com
 64.233.185.132	oauth.googleusercontent.com
 64.233.185.132	feedback.googleusercontent.com
@@ -3413,13 +3413,13 @@
 64.233.185.132	images-lso-opensocial.googleusercontent.com
 64.233.185.132	images-blogger-opensocial.googleusercontent.com
 64.233.185.132	images-pos-opensocial.googleusercontent.com
-64.233.185.132	lh0.googleusercontent.com
-64.233.185.132	lh1.googleusercontent.com
-64.233.185.132	lh2.googleusercontent.com
-64.233.185.132	lh3.googleusercontent.com
-64.233.185.132	lh4.googleusercontent.com
-64.233.185.132	lh5.googleusercontent.com
-64.233.185.132	lh6.googleusercontent.com
+202.65.246.80	lh0.googleusercontent.com
+202.65.246.80	lh1.googleusercontent.com
+202.65.246.80	lh2.googleusercontent.com
+202.65.246.80	lh3.googleusercontent.com
+202.65.246.80	lh4.googleusercontent.com
+202.65.246.80	lh5.googleusercontent.com
+202.65.246.80	lh6.googleusercontent.com
 65.39.199.110	gp1.googleusercontent.com
 65.39.199.110	gp2.googleusercontent.com
 65.39.199.110	gp3.googleusercontent.com
@@ -3467,12 +3467,12 @@
 64.233.185.132	ci4.googleusercontent.com
 64.233.185.132	ci5.googleusercontent.com
 64.233.185.132	ci6.googleusercontent.com
-64.233.185.132	s1.googleusercontent.com
-64.233.185.132	s2.googleusercontent.com
-64.233.185.132	s3.googleusercontent.com
-64.233.185.132	s4.googleusercontent.com
-64.233.185.132	s5.googleusercontent.com
-64.233.185.132	s6.googleusercontent.com
+202.65.246.80	s1.googleusercontent.com
+202.65.246.80	s2.googleusercontent.com
+202.65.246.80	s3.googleusercontent.com
+202.65.246.80	s4.googleusercontent.com
+202.65.246.80	s5.googleusercontent.com
+202.65.246.80	s6.googleusercontent.com
 64.233.182.133	sp0.googleusercontent.com
 64.233.182.133	sp1.googleusercontent.com
 64.233.182.133	sp2.googleusercontent.com
@@ -3485,8 +3485,8 @@
 64.233.182.133	sp9.googleusercontent.com
 #Googleusercontent↑
 #Gstatic↓
-64.233.185.132	www.gstatic.com
-64.233.185.132	ssl.gstatic.com
+202.65.246.80	www.gstatic.com
+202.65.246.80	ssl.gstatic.com
 65.39.199.117	csi.gstatic.com
 64.233.185.132	csi.l.google.com
 65.39.199.117	maps.gstatic.com
