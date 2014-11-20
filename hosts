@@ -1,4 +1,8 @@
 ﻿#+UPDATE_TIME 2014-11-20 10:23:00 
+#
+#GCM推送基本没有IP可用
+#环聊也没有IP可用，能力有限，暂时无法解决。
+###
 
 #localhost START
 127.0.0.1	localhost
